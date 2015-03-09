@@ -1,0 +1,5 @@
+D:\visual-studio-projects\EventPublisher\EventPublisher\obj\Debug\EventPublisher.csprojResolveAssemblyReference.cache
+D:\visual-studio-projects\EventPublisher\EventPublisher\bin\Debug\EventPublisher.dll
+D:\visual-studio-projects\EventPublisher\EventPublisher\bin\Debug\EventPublisher.pdb
+D:\visual-studio-projects\EventPublisher\EventPublisher\obj\Debug\EventPublisher.dll
+D:\visual-studio-projects\EventPublisher\EventPublisher\obj\Debug\EventPublisher.pdb

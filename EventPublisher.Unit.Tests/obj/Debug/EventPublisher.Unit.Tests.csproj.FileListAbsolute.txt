@@ -1,0 +1,11 @@
+D:\visual-studio-projects\EventPublisher\EventPublisher.Unit.Tests\obj\Debug\EventPublisher.Unit.Tests.csprojResolveAssemblyReference.cache
+D:\visual-studio-projects\EventPublisher\EventPublisher.Unit.Tests\bin\Debug\EventPublisher.Unit.Tests.dll
+D:\visual-studio-projects\EventPublisher\EventPublisher.Unit.Tests\bin\Debug\EventPublisher.Unit.Tests.pdb
+D:\visual-studio-projects\EventPublisher\EventPublisher.Unit.Tests\bin\Debug\EventPublisher.dll
+D:\visual-studio-projects\EventPublisher\EventPublisher.Unit.Tests\bin\Debug\NSubstitute.dll
+D:\visual-studio-projects\EventPublisher\EventPublisher.Unit.Tests\bin\Debug\nunit.framework.dll
+D:\visual-studio-projects\EventPublisher\EventPublisher.Unit.Tests\bin\Debug\EventPublisher.pdb
+D:\visual-studio-projects\EventPublisher\EventPublisher.Unit.Tests\bin\Debug\NSubstitute.xml
+D:\visual-studio-projects\EventPublisher\EventPublisher.Unit.Tests\bin\Debug\nunit.framework.xml
+D:\visual-studio-projects\EventPublisher\EventPublisher.Unit.Tests\obj\Debug\EventPublisher.Unit.Tests.dll
+D:\visual-studio-projects\EventPublisher\EventPublisher.Unit.Tests\obj\Debug\EventPublisher.Unit.Tests.pdb
